@@ -2,93 +2,102 @@
     "Person": [
         {
             "id": 1,
-            "question": "Name",
+            "question": "Wie lautet dein Name?",
             "explanation": "",
             "control": {
                 "type": "text",
                 "options": null,
                 "next_id": 2
-            }
+            },
+            "pdfId": "A.1"
         },
         {
             "id": 2,
-            "question": "Vorname",
+            "question": "Wie lautet dein Vorname",
             "explanation": "",
             "control": {
                 "type": "text",
                 "options": null,
                 "next_id": 3
-            }
+            },
+            "pdfId": "A.1"
         },
         {
             "id": 3,
-            "question": "Geburtsname",
+            "question": "Wie lautet dein Geburtsname?",
             "explanation": "",
             "control": {
                 "type": "text",
                 "options": null,
                 "next_id": 4
-            }
+            },
+            "pdfId": "A.1"
         },
         {
             "id": 4,
-            "question": "Geburtsdatum",
+            "question": "Wie lautet dein Geburtsdatum?",
             "explanation": "",
             "control": {
                 "type": "date",
                 "options": null,
                 "next_id": 5
-            }
+            },
+            "pdfId": "A.3"
         },
         {
             "id": 5,
-            "question": "Straße",
+            "question": "Wie heißt die Straße deines Wohnsitzes?",
             "explanation": "",
             "control": {
                 "type": "text",
                 "options": null,
                 "next_id": 6
-            }
+            },
+            "pdfId": "A.5"
         },
         {
             "id": 6,
-            "question": "Hausnummer",
+            "question": "Wie lautet die Hausnummer deines Wohnsitzes?",
             "explanation": "",
             "control": {
                 "type": "number",
                 "options": null,
                 "next_id": 7
-            }
+            },
+            "pdfId": "A.5"
         },
         {
             "id": 7,
-            "question": "Postleitzahl",
+            "question": "Wie lautet die Postleitzahl des Wohnsortes, in dem sich dein Wohnsitzes befindet?",
             "explanation": "",
             "control": {
                 "type": "number",
                 "options": null,
                 "next_id": 8
-            }
+            },
+            "pdfId": "A.5"
         },
         {
             "id": 8,
-            "question": "Wohnort",
+            "question": "Wie heißt der Wohnort, in dem sich dein Wohnsitzes befindet?",
             "explanation": "",
             "control": {
                 "type": "text",
                 "options": null,
                 "next_id": 9
-            }
+            },
+            "pdfId": "A.5"
         },
         {
             "id": 9,
-            "question": "Telefonnummer",
+            "question": "Wie lautet deine Telefonnummer, unter der du erreichbar bist?",
             "explanation": "",
             "control": {
                 "type": "number",
                 "options": null,
                 "next_id": 10
-            }
+            },
+            "pdfId": "A.6"
         },
         {
             "id": 10,
@@ -140,7 +149,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": "A.4"
         },
         {
             "id": 11,
@@ -162,7 +172,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 12,
@@ -172,7 +183,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 13
-            }
+            },
+            "pdfId": "A.7"
         },
         {
             "id": 13,
@@ -182,7 +194,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 14
-            }
+            },
+            "pdfId": "A.7"
         },
         {
             "id": 14,
@@ -192,7 +205,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 15
-            }
+            },
+            "pdfId": "A.7"
         },
         {
             "id": 15,
@@ -202,7 +216,8 @@
                 "type": "number",
                 "options": null,
                 "next_id": 16
-            }
+            },
+            "pdfId": "A.7"
         },
         {
             "id": 16,
@@ -212,7 +227,8 @@
                 "type": "number",
                 "options": null,
                 "next_id": 17
-            }
+            },
+            "pdfId": "A.7"
         },
         {
             "id": 17,
@@ -222,7 +238,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 18
-            }
+            },
+            "pdfId": "A.7"
         },
         {
             "id": 18,
@@ -232,7 +249,8 @@
                 "type": "number",
                 "options": null,
                 "next_id": 19
-            }
+            },
+            "pdfId": "A.7"
         },
         {
             "id": 19,
@@ -242,7 +260,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 20
-            }
+            },
+            "pdfId": "A.2"
         },
         {
             "id": 20,
@@ -264,7 +283,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 21,
@@ -274,7 +294,8 @@
                 "type": "upload",
                 "options": null,
                 "next_id": null
-            }
+            },
+            "pdfId": null
         }
     ],
     "Kostentraeger": [
@@ -303,7 +324,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 23,
@@ -330,7 +352,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 24,
@@ -340,7 +363,8 @@
                 "type": "hint",
                 "options": null,
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 25,
@@ -350,7 +374,8 @@
                 "type": "number",
                 "options": null,
                 "next_id": 27
-            }
+            },
+            "pdfId": "B.1"
         },
         {
             "id": 26,
@@ -360,7 +385,8 @@
                 "type": "number",
                 "options": null,
                 "next_id": 28
-            }
+            },
+            "pdfId": "B.2"
         },
         {
             "id": 27,
@@ -370,7 +396,8 @@
                 "type": "upload",
                 "options": null,
                 "next_id": 29
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 28,
@@ -380,7 +407,8 @@
                 "type": "upload",
                 "options": null,
                 "next_id": 29
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 29,
@@ -402,7 +430,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 30,
@@ -412,7 +441,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 31
-            }
+            },
+            "pdfId": "B.1"
         },
         {
             "id": 31,
@@ -422,7 +452,8 @@
                 "type": "upload",
                 "options": null,
                 "next_id": 32
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 32,
@@ -444,7 +475,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 33,
@@ -454,7 +486,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 34
-            }
+            },
+            "pdfId": "B.2"
         },
         {
             "id": 34,
@@ -464,7 +497,8 @@
                 "type": "upload",
                 "options": null,
                 "next_id": null
-            }
+            },
+            "pdfId": null
         }
     ],
     "Unterhalt": [
@@ -488,7 +522,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 36,
@@ -498,7 +533,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 37
-            }
+            },
+            "pdfId": "C.1"
         },
         {
             "id": 37,
@@ -520,7 +556,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 38,
@@ -530,7 +567,8 @@
                 "type": "upload",
                 "options": null,
                 "next_id": 40
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 40,
@@ -552,7 +590,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 41,
@@ -562,7 +601,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 42
-            }
+            },
+            "pdfId": "D.1"
         },
         {
             "id": 42,
@@ -572,7 +612,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 43
-            }
+            },
+            "pdfId": "D.1"
         },
         {
             "id": 43,
@@ -582,7 +623,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 44
-            }
+            },
+            "pdfId": "D.1"
         },
         {
             "id": 44,
@@ -592,17 +634,19 @@
                 "type": "text",
                 "options": null,
                 "next_id": 45
-            }
+            },
+            "pdfId": "D.1"
         },
         {
             "id": 45,
-            "question": "Wie lautet die PLZ  der Person, der du Unterhalt bezahlst?",
+            "question": "Wie lautet die PLZ der Person, der du Unterhalt bezahlst?",
             "explanation": "",
             "control": {
                 "type": "text",
                 "options": null,
                 "next_id": 46
-            }
+            },
+            "pdfId": "D.1"
         },
         {
             "id": 46,
@@ -612,7 +656,8 @@
                 "type": "text",
                 "options": null,
                 "next_id": 47
-            }
+            },
+            "pdfId": "D.1"
         },
         {
             "id": 47,
@@ -649,7 +694,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": "D.3"
         },
         {
             "id": 48,
@@ -671,7 +717,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 49,
@@ -681,7 +728,8 @@
                 "type": "number",
                 "options": null,
                 "next_id": 50
-            }
+            },
+            "pdfId": "D.4"
         },
         {
             "id": 50,
@@ -703,7 +751,8 @@
                     }
                 ],
                 "next_id": null
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 51,
@@ -713,7 +762,8 @@
                 "type": "number",
                 "options": null,
                 "next_id": 52
-            }
+            },
+            "pdfId": "D.5"
         },
         {
             "id": 52,
@@ -723,7 +773,8 @@
                 "type": "upload",
                 "options": null,
                 "next_id": 53
-            }
+            },
+            "pdfId": null
         },
         {
             "id": 53,
@@ -745,17 +796,8 @@
                     }
                 ],
                 "next_id": null
-            }
-        },
-        {
-            "id": 54,
-            "question": "Bitte lade das unterschriebene Dokument wieder hoch",
-            "explanation": "",
-            "control": {
-                "type": "upload",
-                "options": null,
-                "next_id": null
-            }
+            },
+            "pdfId": null
         }
     ]
 }
